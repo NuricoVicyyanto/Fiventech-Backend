@@ -1,2 +1,2 @@
 # Fiventech-Backend
-Membuat sebuah backend untuk website fiventech menggunakan framework express
+Membuat sebuah backend untuk website fiventech menggunakan framework express.js
